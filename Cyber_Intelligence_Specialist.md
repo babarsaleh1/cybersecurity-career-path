@@ -67,7 +67,7 @@ AU$53K <= AU$92,990 <= AU$140K
 
 # Interview Questions
  * https://insights.dice.com/2020/04/22/cybersecurity-analyst-interview-questions-4-prep-considerations/
-
+* https://insights.dice.com/2020/04/22/cybersecurity-analyst-interview-questions-4-prep-considerations/updated
 
 # Training Resources
   * 
